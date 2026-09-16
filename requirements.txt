@@ -1,1 +1,4 @@
-# Add your pip packages here
+pyTelegramBotAPI
+Flask
+requests
+psutil
